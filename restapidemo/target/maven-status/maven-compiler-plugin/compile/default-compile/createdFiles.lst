@@ -1,0 +1,4 @@
+com\ask\rest\RestapidemoApplication.class
+com\ask\rest\entity\Product.class
+com\ask\rest\controller\ProductController.class
+com\ask\rest\jpa\ProductRepo.class
